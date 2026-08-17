@@ -1,6 +1,6 @@
 # Abandoned Outpost
 
-A small Unreal Engine project I made for university, focused on exploring an abandoned military outpost, interacting with a few objects, and building out the environment around it.
+A small Unreal Engine project I made for university, focused on exploring an abandoned outpost with simple gameplay and environmental design.
 
 The project originally started as a more ambitious FPS, but I eventually scaled it back into a simpler exploration-based game because of time and development constraints. The player can explore the map, find a document, interact with parts of the environment, and make their way to the end of the level. This was originally made as a university coursework project. It is definitely not a fully finished game, but it shows some of my work with Unreal Engine and blueprint-based gameplay.
 
