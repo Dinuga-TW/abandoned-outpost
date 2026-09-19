@@ -32,7 +32,7 @@ A short showcase of the project, with some cinematic(-ish) environment shots at 
 * First-person movement and exploration
 * Outdoor map with terrain, foliage, buildings and military props
 * Simple interaction system
-* Main menu with Start and Quit options
+* Main menu with 'Start' and 'Quit' options
 * Collectable document with UI and audio feedback
 * Interactive objects
 * Background music, ambient audio and interaction sounds
