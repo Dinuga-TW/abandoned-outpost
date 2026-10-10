@@ -23,9 +23,9 @@ No Unreal Engine installation is needed to play the packaged build.
 
 ## Project Video
 
-A short showcase of the project, with some cinematic(-ish) environment shots at the start followed by gameplay, interactions and exploration till the end of the level. If you’ve got around 4 mins to spare, give it a watch.
+A short showcase of the project, with some cinematic(-ish) environment shots at the start followed by gameplay, interactions and exploration till the end of the level. The camera work is a little shaky in places but if you’ve got around 4 mins to spare, give it a watch.
 
-**[Watch the Project Video](https://drive.google.com/file/d/1aZczdsUL8HcM6gxvwGPnw0K7z-PoVYn1/view?usp=sharing)**
+**[Watch the Project Video](https://youtu.be/IAZai9dxESc)**
 
 ## Features
 
