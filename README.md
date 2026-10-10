@@ -21,11 +21,11 @@ No Unreal Engine installation is needed to play the packaged build.
 
 **Note:** Google Drive may say it can’t scan the ZIP for viruses because the file is too large. Don't worry, it is safe, it’s just the packaged game build is a bit big. The download is around **2.6 GB**.
 
-## Project Video
+## Project Showcase
 
 A short showcase of the project, with some cinematic(-ish) environment shots at the start followed by gameplay, interactions and exploration till the end of the level. The camera work is a little shaky in places but if you’ve got around 4 mins to spare, give it a watch.
 
-**[Watch the Project Video](https://youtu.be/IAZai9dxESc)**
+**[Watch the Project Showcase](https://youtu.be/IAZai9dxESc)**
 
 ## Features
 
